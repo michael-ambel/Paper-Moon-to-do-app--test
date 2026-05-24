@@ -1,0 +1,24 @@
+{
+  "enabled": false,
+  "source": "en",
+  "languages": [],
+  "translations": {},
+  "pendingTranslations": {
+    "s": "s",
+    "of": "of",
+    "Add": "Add",
+    "Clear": "Clear",
+    "Progress:": "Progress:",
+    "completed": "completed",
+    "Paper Moon": "Paper Moon",
+    "completed task": "completed task",
+    "Add a new task...": "Add a new task...",
+    "Paper Moon - To-Do App": "Paper Moon - To-Do App",
+    "Keep track of your tasks": "Keep track of your tasks",
+    "Stay productive, one task at a time ✨": "Stay productive, one task at a time ✨",
+    "No tasks yet. Add one to get started! 🚀": "No tasks yet. Add one to get started! 🚀",
+    "useTheme must be used within ThemeProvider": "useTheme must be used within ThemeProvider"
+  },
+  "preservedKeys": [],
+  "preservedStore": {}
+}
